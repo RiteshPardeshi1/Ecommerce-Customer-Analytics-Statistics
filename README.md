@@ -1,4 +1,4 @@
-# End-to-End Statistics Project: E-commerce Customer Analysis
+# 🛒 E-commerce Customer Analytics: An End-to-End Statistics Project
 
 A statistics-for-data-science project that analyses a simulated e-commerce customer population. Every step pairs the code with a plain-language insight, so the notebook reads like a guided lesson as well as an analysis.
 
