@@ -34,4 +34,4 @@ Python, NumPy, Pandas, Matplotlib, Seaborn, SciPy, Jupyter Notebook
 
 ## Author
 
-Ritesh Pardeshi, Data Scientist
+Ritesh Pardeshi, Data Intelligence Specialist
